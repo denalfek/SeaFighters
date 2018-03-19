@@ -1,0 +1,7 @@
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\bin\Debug\SeaFighters.exe.config
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\bin\Debug\SeaFighters.exe
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\bin\Debug\SeaFighters.pdb
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\obj\Debug\SeaFighters.csprojResolveAssemblyReference.cache
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\obj\Debug\SeaFighters.csproj.CoreCompileInputs.cache
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\obj\Debug\SeaFighters.exe
+C:\Users\denalfek\source\repos\SeaFighters\SeaFighters\obj\Debug\SeaFighters.pdb
